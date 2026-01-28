@@ -27,7 +27,7 @@ gitからソースコードを取得
 
 git clone https://github.com/ren0509/kadaisuiyou.git
 
-cd bbs-project
+cd kadaisuiyou
 
 Docker コンテナのビルド・起動
 
