@@ -1,3 +1,5 @@
+### 手順書
+
 ```
 sudo dnf update -y
 ```
@@ -26,7 +28,7 @@ sudo chmod +x /usr/local/lib/docker/cli-plugins/docker-compose
 sudo usermod -aG docker ec2-user
 ```
 
-### 再ログイン後に確認:
+### 再ログイン後に確認
 
 ```
 docker --version
